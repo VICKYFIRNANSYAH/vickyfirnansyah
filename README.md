@@ -151,6 +151,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VICKYFIRNANSYAH/VICKYFIRNANSYAH/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/VICKYFIRNANSYAH/vickyfirnansyah/blob/output/github-contribution-grid-snake.svg)
 
 ###
