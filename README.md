@@ -1,5 +1,6 @@
-<div style="text-align:center;">
-  <img height="150" src="/img/MyPhoto.png" alt="My Photo" />
+
+<div align="center">
+  <img height="250" src="/img/MyPhoto.png" alt="My Photo" />
 </div>
 
 ###
@@ -30,7 +31,8 @@
 
 ###
 
-<p align="left">I'm VICKY FIRNANSYAH from INDONESIA<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm <strong>MUHAMMAD VICKY FIRNANSYAH</strong> from <strong>INDONESIA</strong><br><br>- 🔭 I'm currently working as a <strong>Developer & Tech Enthusiast</strong> passionate about building impactful digital experiences.<br>
+<br>- 📚 I'm actively exploring <strong>Cloud Computing, and Full Stack Development</strong> to sharpen my skills and stay ahead in the tech world.<br><br>- ⚡ In my free time, I enjoy <strong>designing, editing videos, experimenting with code</strong>, and sometimes just geeking out on the latest tech trends.</p>
 
 ###
 
@@ -134,6 +136,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VICKYFIRNANSYAH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=VICKYFIRNANSYAH" height="220" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VICKYFIRNANSYAH&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+<h3 align="left">Play with me :</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VICKYFIRNANSYAH/VICKYFIRNANSYAH/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VICKYFIRNANSYAH/VICKYFIRNANSYAH/output/pacman-contribution-graph.svg">
