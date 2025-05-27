@@ -2,14 +2,14 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # jalan tiap 6 jam
+    - cron: "0 */6 * * *"  # setiap 6 jam
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # penting untuk bisa push hasil ke repo
+      contents: write
 
     steps:
       - uses: actions/checkout@v2
@@ -19,8 +19,6 @@ jobs:
           github_user_name: VICKYFIRNANSYAH
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status  # opsional, hanya untuk debugging
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
